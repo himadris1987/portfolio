@@ -1,3 +1,9 @@
-#navbar-nav{text-align:right;}
-#body{background-color: blue;}
-h1{background-color: cyan; color:white}
+.navbar{background-color: lightseagreen !important;}
+.navbar-brand{color:lightblue !important;}
+.nav-link{color:lightblue !important;}
+body{background-color:lightblue;}
+h1{background-color: lightblue; color:lightcoral;}
+img{
+    width: 20%;
+    height:auto;
+  }
