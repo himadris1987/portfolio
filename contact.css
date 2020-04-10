@@ -37,3 +37,4 @@ input[type=text], select, textarea {
 .nav-link{color:lightblue !important;}
 h1{color:lightcoral;}
 label{color:lightblue;}
+footer{position:relative; margin-top:280px;text-align: center; color:lightcoral}
